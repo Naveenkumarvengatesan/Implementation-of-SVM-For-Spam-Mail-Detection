@@ -65,13 +65,9 @@ cl=classification_report(y_test,y_pred)
 print(cl)
 ~~~
 ## Output:
-data
 <img width="894" height="603" alt="image" src="https://github.com/user-attachments/assets/fc1e4dd6-a73d-4ca4-8d1c-d751f1b5c557" />
-confusion matrix
 <img width="873" height="146" alt="image" src="https://github.com/user-attachments/assets/49baa174-34c2-498a-8e9a-3af7feb9f9bd" />
-accuracy
-<img width="878" height="157" alt="image" src="https://github.com/user-attachments/assets/42e8b793-0b30-48f9-a53d-0fce80836b9c" />
-classification report 
+<img width="878" height="157" alt="image" src="https://github.com/user-attachments/assets/42e8b793-0b30-48f9-a53d-0fce80836b9c" /> 
 <img width="895" height="341" alt="image" src="https://github.com/user-attachments/assets/273c65df-c4f5-4752-a2b4-7ee1cde67d0c" />
 
 
